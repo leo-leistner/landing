@@ -1,0 +1,22 @@
+.btn-blue {
+	background-color: #EFF2F1;
+	padding: 15px 20px;
+	border-radius: 4px;
+	cursor: pointer;
+	border:  none;
+	color: #0E0F19;
+	box-shadow: 0px 8px 15px
+		rgba(0, 0, 0, 0.1);
+	transition:  all 0.3 ease;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: 'Josefin', sans-serif;
+}
+
+.btn-blue:hover{
+	background: #007EA7;
+	transform:  translateY(-7px);
+	color: #EFF2F1;
+	box-shadow: 0px 10px 25px
+		rgba(46, 223, 229, 0.44s);
+}
